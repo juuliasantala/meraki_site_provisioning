@@ -2,6 +2,9 @@
 
 This Git repository includes the code that is covered in the Cisco Live Melbourne 2022 Ligthning Talk.
 
+**NOTE! THIS README IS STILL WORK IN PROGRESS, PLEASE COME BACK IN COUPLE OF DAYS FOR THE FINAL INSTRUCTIONS ON HOW TO RUN THE CODE!**
+The code itself is ready, if you are experienced with Python, feel free to try it out already now :) 
+
 **Content**
 - [Prerequisities to run this code]()
 - [Running the code]()
